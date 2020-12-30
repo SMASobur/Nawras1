@@ -1,0 +1,128 @@
+[
+  {
+    "name": "admin",
+    "path": "/admin",
+    "component": "C:\\\\Users\\\\Nawras\\\\Google Drive\\\\KnitNox_nawras-master\\\\pages\\\\admin\\\\index.vue",
+    "chunkName": "pages/admin/index",
+    "_name": "_ebe80578"
+  },
+  {
+    "name": "amp",
+    "path": "/amp",
+    "component": "C:\\\\Users\\\\Nawras\\\\Google Drive\\\\KnitNox_nawras-master\\\\pages\\\\amp.vue",
+    "chunkName": "pages/amp",
+    "_name": "_1e18499a"
+  },
+  {
+    "name": "checkout",
+    "path": "/checkout",
+    "component": "C:\\\\Users\\\\Nawras\\\\Google Drive\\\\KnitNox_nawras-master\\\\pages\\\\checkout.vue",
+    "chunkName": "pages/checkout",
+    "_name": "_fa30ab32"
+  },
+  {
+    "name": "current_reservation",
+    "path": "/current_reservation",
+    "component": "C:\\\\Users\\\\Nawras\\\\Google Drive\\\\KnitNox_nawras-master\\\\pages\\\\current_reservation.vue",
+    "chunkName": "pages/current_reservation",
+    "_name": "_6dec5716"
+  },
+  {
+    "name": "delivery",
+    "path": "/delivery",
+    "component": "C:\\\\Users\\\\Nawras\\\\Google Drive\\\\KnitNox_nawras-master\\\\pages\\\\delivery\\\\index.vue",
+    "chunkName": "pages/delivery/index",
+    "_name": "_73a850cd"
+  },
+  {
+    "name": "inspire",
+    "path": "/inspire",
+    "component": "C:\\\\Users\\\\Nawras\\\\Google Drive\\\\KnitNox_nawras-master\\\\pages\\\\inspire.vue",
+    "chunkName": "pages/inspire",
+    "_name": "_8823d46e"
+  },
+  {
+    "name": "kitchen",
+    "path": "/kitchen",
+    "component": "C:\\\\Users\\\\Nawras\\\\Google Drive\\\\KnitNox_nawras-master\\\\pages\\\\kitchen\\\\index.vue",
+    "chunkName": "pages/kitchen/index",
+    "_name": "_3518738f"
+  },
+  {
+    "name": "order",
+    "path": "/order",
+    "component": "C:\\\\Users\\\\Nawras\\\\Google Drive\\\\KnitNox_nawras-master\\\\pages\\\\order.vue",
+    "chunkName": "pages/order",
+    "_name": "_ed758c06"
+  },
+  {
+    "name": "preorder",
+    "path": "/preorder",
+    "component": "C:\\\\Users\\\\Nawras\\\\Google Drive\\\\KnitNox_nawras-master\\\\pages\\\\preorder.vue",
+    "chunkName": "pages/preorder",
+    "_name": "_20eb352c"
+  },
+  {
+    "name": "reservation",
+    "path": "/reservation",
+    "component": "C:\\\\Users\\\\Nawras\\\\Google Drive\\\\KnitNox_nawras-master\\\\pages\\\\reservation.vue",
+    "chunkName": "pages/reservation",
+    "_name": "_d4e6cb8a"
+  },
+  {
+    "name": "shop",
+    "path": "/shop",
+    "component": "C:\\\\Users\\\\Nawras\\\\Google Drive\\\\KnitNox_nawras-master\\\\pages\\\\shop.vue",
+    "chunkName": "pages/shop",
+    "_name": "_74aa0c97"
+  },
+  {
+    "name": "admin-category-create_category",
+    "path": "/admin/category/create_category",
+    "component": "C:\\\\Users\\\\Nawras\\\\Google Drive\\\\KnitNox_nawras-master\\\\pages\\\\admin\\\\category\\\\create_category.vue",
+    "chunkName": "pages/admin/category/create_category",
+    "_name": "_869dc1d6"
+  },
+  {
+    "name": "admin-category-show_category",
+    "path": "/admin/category/show_category",
+    "component": "C:\\\\Users\\\\Nawras\\\\Google Drive\\\\KnitNox_nawras-master\\\\pages\\\\admin\\\\category\\\\show_category.vue",
+    "chunkName": "pages/admin/category/show_category",
+    "_name": "_d7857498"
+  },
+  {
+    "name": "admin-menu-create_menu",
+    "path": "/admin/menu/create_menu",
+    "component": "C:\\\\Users\\\\Nawras\\\\Google Drive\\\\KnitNox_nawras-master\\\\pages\\\\admin\\\\menu\\\\create_menu.vue",
+    "chunkName": "pages/admin/menu/create_menu",
+    "_name": "_12404935"
+  },
+  {
+    "name": "admin-menu-show_menu",
+    "path": "/admin/menu/show_menu",
+    "component": "C:\\\\Users\\\\Nawras\\\\Google Drive\\\\KnitNox_nawras-master\\\\pages\\\\admin\\\\menu\\\\show_menu.vue",
+    "chunkName": "pages/admin/menu/show_menu",
+    "_name": "_ac9b89d8"
+  },
+  {
+    "name": "admin-order-all_orders",
+    "path": "/admin/order/all_orders",
+    "component": "C:\\\\Users\\\\Nawras\\\\Google Drive\\\\KnitNox_nawras-master\\\\pages\\\\admin\\\\order\\\\all_orders.vue",
+    "chunkName": "pages/admin/order/all_orders",
+    "_name": "_b41259fa"
+  },
+  {
+    "name": "admin-reservation-all_reservations",
+    "path": "/admin/reservation/all_reservations",
+    "component": "C:\\\\Users\\\\Nawras\\\\Google Drive\\\\KnitNox_nawras-master\\\\pages\\\\admin\\\\reservation\\\\all_reservations.vue",
+    "chunkName": "pages/admin/reservation/all_reservations",
+    "_name": "_b004d17a"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "C:\\\\Users\\\\Nawras\\\\Google Drive\\\\KnitNox_nawras-master\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_707a7981"
+  }
+]
